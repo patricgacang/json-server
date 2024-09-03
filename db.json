@@ -24,5 +24,31 @@
       "description": "3rd book desc",
       "datetime": "Sep 03, 2024 11:35:56 AM"
     }
+  ],
+  "newbooklist": [
+    {
+      "id": "1",
+      "title": "First Book title ko",
+      "author": "first author",
+      "type": "Adventure",
+      "description": "First Desc",
+      "datetime": "Sep 03, 2024 3:47:04 PM"
+    },
+    {
+      "id": "2",
+      "title": "2nd book title",
+      "author": "2nd author",
+      "type": "Horror",
+      "description": "2nd dEsc",
+      "datetime": "Sep 03, 2024 11:41:00 AM"
+    },
+    {
+      "id": "3",
+      "title": "3rd book",
+      "author": "3rd auhor",
+      "type": "Adventure",
+      "description": "3rd book desc",
+      "datetime": "Sep 03, 2024 11:35:56 AM"
+    }
   ]
 }
