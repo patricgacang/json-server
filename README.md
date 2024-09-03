@@ -1,1 +1,1 @@
-# booklist-json-server
+# My personal json-server
