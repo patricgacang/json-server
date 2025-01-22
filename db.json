@@ -24,5 +24,7 @@
       "description": "3rd book desc",
       "datetime": "Sep 03, 2024 11:35:56 AM"
     }
-  ]
+  ],
+  "posts": [],
+  "booked": []
 }
